@@ -1,0 +1,104 @@
+@font-face {
+        font-family: garamond;
+        src: url(../fonts/garamondRegular.ttf) format('truetype'),
+
+        }
+
+html {
+  max-width: 1260px;
+}
+
+body {
+  font-family: garamond;
+  color: black;
+
+}
+
+#logo {
+  width: 21rem;
+  margin-left: 2rem;
+  margin-top: .5rem;
+  float: left;
+}
+
+.navbar {
+  font-size: 1rem;
+  background-color: white;
+}
+
+.collapse {
+  margin-top: 1.85rem;
+  margin-right: 1.5rem;
+  float: right;
+}
+
+.carousel {
+  margin-top: 6rem;
+}
+
+.carousel-item {
+  height: 550px;
+}
+
+.section {
+  margin-top: 3rem;
+}
+
+.section img{
+  width: 50rem;
+}
+
+.section-text {
+  margin-top: 10rem;
+  text-align: center;
+
+}
+
+#rings {
+  margin-top: 4rem;
+}
+
+#bridal {
+  margin-top: -1rem;
+}
+
+#bridal img {
+  margin-left: -2rem;
+}
+
+#map {
+  margin-top: 3rem;
+  margin-left: 2.5rem;
+  width: 300rem;
+}
+
+#footer {
+  font-size: 1.25rem;
+  color: #8E8E8C;
+  margin-bottom: 5rem;
+}
+
+#footer a {
+  color: #8E8E8C;
+  text-decoration: none;
+}
+
+#mailing-list {
+  padding-left: 2rem;
+  margin-top: 2rem;
+}
+
+.icon {
+  margin-top: 2rem;
+  width: 2.5rem;
+  margin-left: 3rem;
+  margin-right: 1rem;
+  float: left;
+}
+
+
+#contact-us {
+  margin-top: 2rem;
+  text-align: right;
+  padding-right: 2rem;
+}
